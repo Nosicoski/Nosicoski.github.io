@@ -1,0 +1,129 @@
+.Second-page{
+    position: absolute;
+    left: 43%;
+    top: 90%;
+   
+    
+
+}
+.segunda-section{
+    background-color:#313131 ;
+}
+.Services{
+    color:rgb(194, 129, 68) ;
+    position: relative;
+    left: 95px;   
+    font-size:20px; 
+    margin-left: 720px;
+    letter-spacing: 5.3px;
+}
+.linea-separadora{
+    width: 200px;
+    position: relative;
+    right: 80px;
+}
+.Tit-sec{
+    position: relative;
+    left: 34px;
+    font-size: 30px;
+    margin-left: 710px;
+}
+
+.parrafo3{
+    font-size: 20px;
+    position: relative;
+    right: 75px;
+    line-height: 1.4;
+    text-align: center;
+}
+
+.backrond-cards{
+    display: flex;
+  
+}
+.pencil{
+   font-size: 100px;
+   position: relative;
+   bottom: 30px;
+   left: 50px;
+}
+.UX-Design{
+position: relative;
+right: 10px;
+letter-spacing: 1.3px;
+}
+.code{
+    font-size: 120px;
+    position: relative;
+    bottom: 50px;
+    left: 50px;
+}
+.Web-Development{
+    position: relative;
+    bottom: 40px;
+    letter-spacing: 1.3px;
+}
+.testing{
+    font-size: 100px;
+    position: relative;
+    bottom: 60px;
+   left:  10px;
+}
+.Testing-Title{
+position: relative;
+bottom: 30px;
+
+letter-spacing: 1.3px;
+}
+
+.DataBase{
+    font-size: 100px;
+    position: relative;
+    bottom: 60px  ;
+    left: 20px;
+}
+.database-title{
+    letter-spacing: 1.3px;
+    position: relative;
+    bottom: 20px;
+}
+
+.card-content1{
+    background-color: #2b2929;
+    padding: 6rem;
+     margin: 30px;
+    margin-left: 65px;
+    transition: transform 0.3s ease;
+}
+.card-content1:hover {
+    transform: scale(1.2) translate(1px, 1px);
+}
+.card-content2{ 
+    background-color: #2b2929;
+    padding: 6rem;
+    margin: 30px;
+    transition: transform 0.3s ease;
+}
+.card-content2:hover {
+    transform: scale(1.2) translate(1px, 1px);
+}
+.card-content3{ 
+    background-color: #2b2929;
+    padding: 8rem;
+    margin: 30px;
+    transition: transform 0.3s ease;
+}
+.card-content3:hover {
+    transform: scale(1.2) translate(1px, 1px);
+}
+.card-content4{ background-color: #2b2929;
+    padding: 8rem;
+    margin: 30px;
+    transition: transform 0.3s ease;
+}
+
+.card-content4:hover {
+    transform: scale(1.2) translate(1px, 1px);
+}
+
+

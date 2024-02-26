@@ -1,0 +1,51 @@
+.linea-separadora2{
+    width: 100%;
+    position: relative;
+    left: 80px;
+}
+.Tercera-seccion{
+    text-align: center;
+    position: relative;
+    font: 20px;
+    right: 80px;
+
+}
+.Proyects{
+    color:rgb(194, 129, 68);
+    letter-spacing: 5.3px;
+    font-size: 20px;
+}
+
+.Masterpiece{
+    font-size: 30px;
+}
+.text-masterpiece{
+    font-size: 20px;
+    position: relative;
+    left: 12px;
+}
+
+.LOGOS-TERCERA-PAGINA{
+    font-size: 100PX;
+    display: flex;
+    justify-content: space-between;
+    transition: transform 0.3s ease;
+    margin-left: 45px;
+}
+
+.LOGOS-TERCERA-PAGINA:hover {
+    transform: scale(0.9) translate(1px, 1px);  }
+
+    .LOGOS-TERCERA-PAGINA2{
+        font-size: 100PX;
+        display: flex;
+        justify-content:space-evenly;
+        transition: transform 0.3s ease;
+        line-height: 2;
+        margin-left: 45px;
+    }
+    
+    .LOGOS-TERCERA-PAGINA2:hover {
+        transform: scale(0.9) translate(1px, 1px);  }
+    
+    
